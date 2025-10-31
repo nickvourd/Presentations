@@ -2,6 +2,8 @@
 
 My Conference Presentations
 
+![](/Pictures/logo.png)
+
 ### Disclaimer
 
 :warning: THE OPINIONS EXPRESSED IN THESE PRESENTATION ARE OUR OWN AND DO NOT REPRESENT ANY EMPLOYER OR ORGANIZATION
